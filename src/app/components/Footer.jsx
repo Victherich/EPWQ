@@ -264,6 +264,8 @@ export default function Footer() {
             <li><StyledLink href="/process">Process</StyledLink></li>
             {/* <li><StyledLink href="/faq">FAQ</StyledLink></li> */}
             <li><StyledLink href="/contact">Contact</StyledLink></li>
+             <li><StyledLink href="/termsandconditions">Terms and Conditions</StyledLink></li>
+              <li><StyledLink href="/privacypolicy">Privacy Policy</StyledLink></li>
           </LinkList>
         </FooterColumn>
 

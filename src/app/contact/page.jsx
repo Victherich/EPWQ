@@ -30,7 +30,7 @@ export default function ContactPage() {
 
     const payload = {
       ...formData,
-      recipientEmail: "davidnnamdiesom@gmail.com",
+      recipientEmail: "husandoval1517@gmail.com",
       websiteName: "El Paso Water Quality Inspection",
     };
 
