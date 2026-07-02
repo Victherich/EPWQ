@@ -232,6 +232,16 @@ export default function PrivacyPolicyPage() {
           </Paragraph>
         </SectionBlock>
 
+        <SectionBlock>
+          <Paragraph>
+           SMS/Text Messaging: By providing your mobile number, you consent to receive
+appointment reminder text messages from El Paso Water Quality at the number you
+provide. Message frequency varies; you may receive up to 2 reminder messages per
+scheduled appointment. Message and data rates may apply. Reply STOP to unsubscribe
+or HELP for help. We do not share or sell your mobile opt-in information or phone
+number with third parties for marketing purposes </Paragraph>
+        </SectionBlock>
+
       </ContentContainer>
     </PageWrapper>
   );
