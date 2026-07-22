@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import Swal from 'sweetalert2';
+import SmallCTA from './smallCTA';
 
 // --- Styled Components ---
 
@@ -257,8 +258,9 @@ const [preferredTime, setPreferredTime]=useState('')
           </BulletList>
         </InfoSide>
 
+<SmallCTA/>
         {/* Right Side Form White Box */}
-        <FormCard>
+        {/* <FormCard>
           <StyledForm onSubmit={handleSubmit}>
             <FormRow>
               <InputGroup>
@@ -330,7 +332,7 @@ const [preferredTime, setPreferredTime]=useState('')
               Schedule My Free Inspection
             </SubmitButton>
           </StyledForm>
-        </FormCard>
+        </FormCard> */}
       </Container>
     </FormSection>
   );
