@@ -304,6 +304,10 @@ export default function Footer() {
       {/* Bottom Legal / Social Bar */}
       <BottomDivider>
         <CopyrightText>
+Water Quality Inspection is a service of El Paso Water Quality LLC, El Paso, TX
+        </CopyrightText>
+        
+        <CopyrightText>
           &copy; {new Date().getFullYear()} El Paso Water Quality LLC. All rights reserved.
         </CopyrightText>
         
