@@ -15,7 +15,7 @@ export default function AboutPage() {
             Protecting Your Family’s Water Through Pure Transparency
           </HeroTitle>
           <HeroSubtitle>
-            At El Paso Water Quality, we believe that every household deserves 
+            At El Paso Water Quality LLC, we believe that every household deserves 
             access to the safest, cleanest water possible. Learn who we are, 
             what we stand for, and why we do it.
           </HeroSubtitle>

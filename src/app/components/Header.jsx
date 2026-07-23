@@ -426,8 +426,8 @@ const router = useRouter();
         />
         </LogoImageWrapper>
         <LogoText>
-          <LogoTitle>Water Quality</LogoTitle>
-          <LogoSubtitle>Inspection</LogoSubtitle>
+          <LogoTitle>El Paso Water Quality LLC</LogoTitle>
+          {/* <LogoSubtitle>Inspection</LogoSubtitle> */}
         </LogoText>
       </LogoContainer>
      </Link>

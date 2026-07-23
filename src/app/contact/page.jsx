@@ -678,7 +678,7 @@ export default function ContactPage() {
 
           <ConsentWrapper>
              <ConsentText>
-                  By submitting your phone number, you agree to receive SMS text appointment reminders from El Paso Water Quality. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. See our <StyledLink href="/privacypolicy">Privacy Policy</StyledLink> and <StyledLink href="/termsandconditions">Terms & Conditions</StyledLink>.
+                  By submitting your phone number, you agree to receive SMS text appointment reminders from El Paso Water Quality LLC. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. See our <StyledLink href="/privacypolicy">Privacy Policy</StyledLink> and <StyledLink href="/termsandconditions">Terms & Conditions</StyledLink>.
                 </ConsentText>
                 <CheckboxLabel>
                   <CheckboxInput

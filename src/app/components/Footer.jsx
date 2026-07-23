@@ -245,8 +245,8 @@ export default function Footer() {
                         />
             </LogoImageWrapper>
             <BrandName>
-              <span className="top">WATER QUALITY</span>
-              <span className="bottom">INSPECTION</span>
+              <span className="top">El Paso Water Quality LLC</span>
+              {/* <span className="bottom">INSPECTION</span> */}
             </BrandName>
           </LogoContainer>
           <BrandDesc>
@@ -304,7 +304,7 @@ export default function Footer() {
       {/* Bottom Legal / Social Bar */}
       <BottomDivider>
         <CopyrightText>
-          &copy; {new Date().getFullYear()} Water Quality Inspection. All rights reserved.
+          &copy; {new Date().getFullYear()} El Paso Water Quality LLC. All rights reserved.
         </CopyrightText>
         
         <SocialsWrapper>
